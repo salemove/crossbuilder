@@ -1,4 +1,4 @@
-module github.com/mistermx/crossbuilder
+module github.com/salemove/crossbuilder
 
 go 1.21
 

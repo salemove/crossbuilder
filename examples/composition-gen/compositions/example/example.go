@@ -6,8 +6,8 @@ import (
 	xv1 "github.com/crossplane/crossplane/apis/apiextensions/v1"
 	rbacv1 "k8s.io/api/rbac/v1"
 
-	"github.com/mistermx/crossbuilder/examples/xrd-gen/apis/v1alpha1"
-	"github.com/mistermx/crossbuilder/pkg/generate/composition/build"
+	"github.com/salemove/crossbuilder/examples/xrd-gen/apis/v1alpha1"
+	"github.com/salemove/crossbuilder/pkg/generate/composition/build"
 )
 
 type ExampleBuilder struct{}

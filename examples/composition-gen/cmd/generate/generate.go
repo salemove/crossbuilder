@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/mistermx/crossbuilder/examples/composition-gen/compositions/example"
-	"github.com/mistermx/crossbuilder/pkg/generate/composition/build"
+	"github.com/salemove/crossbuilder/examples/composition-gen/compositions/example"
+	"github.com/salemove/crossbuilder/pkg/generate/composition/build"
 )
 
 func main() {
