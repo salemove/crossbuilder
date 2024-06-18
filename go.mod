@@ -1,6 +1,6 @@
 module github.com/salemove/crossbuilder
 
-go 1.21
+go 1.22
 
 require (
 	github.com/crossplane/crossplane v1.14.3
